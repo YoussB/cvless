@@ -1,19 +1,19 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: CloudChowder
+description: it is always cloudy with a chance of soup!
+taglong: it is always cloudy with a chance of soup!
+tagshort: it rains soup
+url: https://cloudchowder.com
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/youssb/cvless
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Bishoy Youssef
+  email: bishoy@cloudchowder.com
 photo: /assets/jpg/photo.jpg
 
 # social media links
