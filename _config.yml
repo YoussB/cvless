@@ -19,12 +19,12 @@ photo: /assets/jpg/3.png
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  twitter: username
+  # facebook: username
+  github: youssb
+  # instagram: username
+  linkedin: bishoygyoussef
+  # stackoverflow: 0000000/username
+  twitter: youssbeesh
 
 # build settings
 
